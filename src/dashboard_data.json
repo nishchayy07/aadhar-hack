@@ -1,0 +1,1995 @@
+{
+  "metadata": {
+    "note": "Cleaned & Merged Data"
+  },
+  "data": [
+    {
+      "state": "Andaman and Nicobar Islands",
+      "totals": {
+        "enrolment": 511,
+        "biometric": 32,
+        "demographic": 479
+      },
+      "trends": [
+        {
+          "enrolment": 188,
+          "biometric": 16,
+          "demographic": 172,
+          "month": "2025-09"
+        },
+        {
+          "enrolment": 82,
+          "biometric": 8,
+          "demographic": 74,
+          "month": "2025-10"
+        },
+        {
+          "enrolment": 112,
+          "biometric": 3,
+          "demographic": 109,
+          "month": "2025-11"
+        },
+        {
+          "enrolment": 129,
+          "biometric": 5,
+          "demographic": 124,
+          "month": "2025-12"
+        }
+      ]
+    },
+    {
+      "state": "Andhra Pradesh",
+      "totals": {
+        "enrolment": 127686,
+        "biometric": 15241,
+        "demographic": 112445
+      },
+      "trends": [
+        {
+          "enrolment": 116,
+          "biometric": 73,
+          "demographic": 43,
+          "month": "2025-03"
+        },
+        {
+          "enrolment": 1574,
+          "biometric": 646,
+          "demographic": 928,
+          "month": "2025-06"
+        },
+        {
+          "enrolment": 956,
+          "biometric": 483,
+          "demographic": 473,
+          "month": "2025-07"
+        },
+        {
+          "enrolment": 40355,
+          "biometric": 5416,
+          "demographic": 34939,
+          "month": "2025-09"
+        },
+        {
+          "enrolment": 26375,
+          "biometric": 3225,
+          "demographic": 23150,
+          "month": "2025-10"
+        },
+        {
+          "enrolment": 34642,
+          "biometric": 3758,
+          "demographic": 30884,
+          "month": "2025-11"
+        },
+        {
+          "enrolment": 23668,
+          "biometric": 1640,
+          "demographic": 22028,
+          "month": "2025-12"
+        }
+      ]
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "totals": {
+        "enrolment": 4344,
+        "biometric": 2387,
+        "demographic": 1957
+      },
+      "trends": [
+        {
+          "enrolment": 484,
+          "biometric": 395,
+          "demographic": 89,
+          "month": "2025-07"
+        },
+        {
+          "enrolment": 1774,
+          "biometric": 888,
+          "demographic": 886,
+          "month": "2025-09"
+        },
+        {
+          "enrolment": 865,
+          "biometric": 478,
+          "demographic": 387,
+          "month": "2025-10"
+        },
+        {
+          "enrolment": 833,
+          "biometric": 492,
+          "demographic": 341,
+          "month": "2025-11"
+        },
+        {
+          "enrolment": 388,
+          "biometric": 134,
+          "demographic": 254,
+          "month": "2025-12"
+        }
+      ]
+    },
+    {
+      "state": "Assam",
+      "totals": {
+        "enrolment": 230197,
+        "biometric": 88962,
+        "demographic": 141235
+      },
+      "trends": [
+        {
+          "enrolment": 2492,
+          "biometric": 1905,
+          "demographic": 587,
+          "month": "2025-03"
+        },
+        {
+          "enrolment": 25654,
+          "biometric": 13723,
+          "demographic": 11931,
+          "month": "2025-04"
+        },
+        {
+          "enrolment": 13197,
+          "biometric": 8027,
+          "demographic": 5170,
+          "month": "2025-05"
+        },
+        {
+          "enrolment": 9734,
+          "biometric": 4856,
+          "demographic": 4878,
+          "month": "2025-06"
+        },
+        {
+          "enrolment": 47873,
+          "biometric": 17104,
+          "demographic": 30769,
+          "month": "2025-07"
+        },
+        {
+          "enrolment": 50639,
+          "biometric": 14940,
+          "demographic": 35699,
+          "month": "2025-09"
+        },
+        {
+          "enrolment": 27623,
+          "biometric": 10026,
+          "demographic": 17597,
+          "month": "2025-10"
+        },
+        {
+          "enrolment": 31998,
+          "biometric": 12012,
+          "demographic": 19986,
+          "month": "2025-11"
+        },
+        {
+          "enrolment": 20987,
+          "biometric": 6369,
+          "demographic": 14618,
+          "month": "2025-12"
+        }
+      ]
+    },
+    {
+      "state": "Bihar",
+      "totals": {
+        "enrolment": 609585,
+        "biometric": 346710,
+        "demographic": 262875
+      },
+      "trends": [
+        {
+          "enrolment": 2352,
+          "biometric": 1836,
+          "demographic": 516,
+          "month": "2025-03"
+        },
+        {
+          "enrolment": 29442,
+          "biometric": 16891,
+          "demographic": 12551,
+          "month": "2025-04"
+        },
+        {
+          "enrolment": 31651,
+          "biometric": 18400,
+          "demographic": 13251,
+          "month": "2025-05"
+        },
+        {
+          "enrolment": 46386,
+          "biometric": 30226,
+          "demographic": 16160,
+          "month": "2025-06"
+        },
+        {
+          "enrolment": 59274,
+          "biometric": 40266,
+          "demographic": 19008,
+          "month": "2025-07"
+        },
+        {
+          "enrolment": 143565,
+          "biometric": 80625,
+          "demographic": 62940,
+          "month": "2025-09"
+        },
+        {
+          "enrolment": 100909,
+          "biometric": 54612,
+          "demographic": 46297,
+          "month": "2025-10"
+        },
+        {
+          "enrolment": 105624,
+          "biometric": 57497,
+          "demographic": 48127,
+          "month": "2025-11"
+        },
+        {
+          "enrolment": 90382,
+          "biometric": 46357,
+          "demographic": 44025,
+          "month": "2025-12"
+        }
+      ]
+    },
+    {
+      "state": "Chandigarh",
+      "totals": {
+        "enrolment": 2723,
+        "biometric": 247,
+        "demographic": 2476
+      },
+      "trends": [
+        {
+          "enrolment": 117,
+          "biometric": 31,
+          "demographic": 86,
+          "month": "2025-04"
+        },
+        {
+          "enrolment": 856,
+          "biometric": 80,
+          "demographic": 776,
+          "month": "2025-09"
+        },
+        {
+          "enrolment": 473,
+          "biometric": 44,
+          "demographic": 429,
+          "month": "2025-10"
+        },
+        {
+          "enrolment": 727,
+          "biometric": 53,
+          "demographic": 674,
+          "month": "2025-11"
+        },
+        {
+          "enrolment": 550,
+          "biometric": 39,
+          "demographic": 511,
+          "month": "2025-12"
+        }
+      ]
+    },
+    {
+      "state": "Chhattisgarh",
+      "totals": {
+        "enrolment": 103219,
+        "biometric": 20766,
+        "demographic": 82453
+      },
+      "trends": [
+        {
+          "enrolment": 260,
+          "biometric": 145,
+          "demographic": 115,
+          "month": "2025-03"
+        },
+        {
+          "enrolment": 1745,
+          "biometric": 446,
+          "demographic": 1299,
+          "month": "2025-04"
+        },
+        {
+          "enrolment": 1406,
+          "biometric": 461,
+          "demographic": 945,
+          "month": "2025-05"
+        },
+        {
+          "enrolment": 1263,
+          "biometric": 655,
+          "demographic": 608,
+          "month": "2025-06"
+        },
+        {
+          "enrolment": 7587,
+          "biometric": 2211,
+          "demographic": 5376,
+          "month": "2025-07"
+        },
+        {
+          "enrolment": 28805,
+          "biometric": 5067,
+          "demographic": 23738,
+          "month": "2025-09"
+        },
+        {
+          "enrolment": 17092,
+          "biometric": 3191,
+          "demographic": 13901,
+          "month": "2025-10"
+        },
+        {
+          "enrolment": 25926,
+          "biometric": 5433,
+          "demographic": 20493,
+          "month": "2025-11"
+        },
+        {
+          "enrolment": 19135,
+          "biometric": 3157,
+          "demographic": 15978,
+          "month": "2025-12"
+        }
+      ]
+    },
+    {
+      "state": "Dadra and Nagar Haveli",
+      "totals": {
+        "enrolment": 1799,
+        "biometric": 302,
+        "demographic": 1497
+      },
+      "trends": [
+        {
+          "enrolment": 249,
+          "biometric": 61,
+          "demographic": 188,
+          "month": "2025-06"
+        },
+        {
+          "enrolment": 467,
+          "biometric": 107,
+          "demographic": 360,
+          "month": "2025-07"
+        },
+        {
+          "enrolment": 480,
+          "biometric": 61,
+          "demographic": 419,
+          "month": "2025-09"
+        },
+        {
+          "enrolment": 153,
+          "biometric": 16,
+          "demographic": 137,
+          "month": "2025-10"
+        },
+        {
+          "enrolment": 264,
+          "biometric": 30,
+          "demographic": 234,
+          "month": "2025-11"
+        },
+        {
+          "enrolment": 186,
+          "biometric": 27,
+          "demographic": 159,
+          "month": "2025-12"
+        }
+      ]
+    },
+    {
+      "state": "Delhi",
+      "totals": {
+        "enrolment": 94529,
+        "biometric": 25346,
+        "demographic": 69183
+      },
+      "trends": [
+        {
+          "enrolment": 368,
+          "biometric": 187,
+          "demographic": 181,
+          "month": "2025-03"
+        },
+        {
+          "enrolment": 5930,
+          "biometric": 1852,
+          "demographic": 4078,
+          "month": "2025-04"
+        },
+        {
+          "enrolment": 5581,
+          "biometric": 1894,
+          "demographic": 3687,
+          "month": "2025-05"
+        },
+        {
+          "enrolment": 8161,
+          "biometric": 2834,
+          "demographic": 5327,
+          "month": "2025-06"
+        },
+        {
+          "enrolment": 18784,
+          "biometric": 6216,
+          "demographic": 12568,
+          "month": "2025-07"
+        },
+        {
+          "enrolment": 18806,
+          "biometric": 4822,
+          "demographic": 13984,
+          "month": "2025-09"
+        },
+        {
+          "enrolment": 10379,
+          "biometric": 2297,
+          "demographic": 8082,
+          "month": "2025-10"
+        },
+        {
+          "enrolment": 15555,
+          "biometric": 3467,
+          "demographic": 12088,
+          "month": "2025-11"
+        },
+        {
+          "enrolment": 10965,
+          "biometric": 1777,
+          "demographic": 9188,
+          "month": "2025-12"
+        }
+      ]
+    },
+    {
+      "state": "Goa",
+      "totals": {
+        "enrolment": 2333,
+        "biometric": 417,
+        "demographic": 1916
+      },
+      "trends": [
+        {
+          "enrolment": 42,
+          "biometric": 21,
+          "demographic": 21,
+          "month": "2025-07"
+        },
+        {
+          "enrolment": 872,
+          "biometric": 179,
+          "demographic": 693,
+          "month": "2025-09"
+        },
+        {
+          "enrolment": 432,
+          "biometric": 57,
+          "demographic": 375,
+          "month": "2025-10"
+        },
+        {
+          "enrolment": 666,
+          "biometric": 113,
+          "demographic": 553,
+          "month": "2025-11"
+        },
+        {
+          "enrolment": 321,
+          "biometric": 47,
+          "demographic": 274,
+          "month": "2025-12"
+        }
+      ]
+    },
+    {
+      "state": "Gujarat",
+      "totals": {
+        "enrolment": 280549,
+        "biometric": 87518,
+        "demographic": 193031
+      },
+      "trends": [
+        {
+          "enrolment": 1322,
+          "biometric": 636,
+          "demographic": 686,
+          "month": "2025-03"
+        },
+        {
+          "enrolment": 27846,
+          "biometric": 10243,
+          "demographic": 17603,
+          "month": "2025-04"
+        },
+        {
+          "enrolment": 14294,
+          "biometric": 5289,
+          "demographic": 9005,
+          "month": "2025-05"
+        },
+        {
+          "enrolment": 12224,
+          "biometric": 5949,
+          "demographic": 6275,
+          "month": "2025-06"
+        },
+        {
+          "enrolment": 60833,
+          "biometric": 27539,
+          "demographic": 33294,
+          "month": "2025-07"
+        },
+        {
+          "enrolment": 60564,
+          "biometric": 16382,
+          "demographic": 44182,
+          "month": "2025-09"
+        },
+        {
+          "enrolment": 21620,
+          "biometric": 5448,
+          "demographic": 16172,
+          "month": "2025-10"
+        },
+        {
+          "enrolment": 49834,
+          "biometric": 10794,
+          "demographic": 39040,
+          "month": "2025-11"
+        },
+        {
+          "enrolment": 32012,
+          "biometric": 5238,
+          "demographic": 26774,
+          "month": "2025-12"
+        }
+      ]
+    },
+    {
+      "state": "Haryana",
+      "totals": {
+        "enrolment": 98252,
+        "biometric": 10210,
+        "demographic": 88042
+      },
+      "trends": [
+        {
+          "enrolment": 200,
+          "biometric": 102,
+          "demographic": 98,
+          "month": "2025-03"
+        },
+        {
+          "enrolment": 2328,
+          "biometric": 543,
+          "demographic": 1785,
+          "month": "2025-04"
+        },
+        {
+          "enrolment": 3696,
+          "biometric": 657,
+          "demographic": 3039,
+          "month": "2025-05"
+        },
+        {
+          "enrolment": 7641,
+          "biometric": 1529,
+          "demographic": 6112,
+          "month": "2025-06"
+        },
+        {
+          "enrolment": 6752,
+          "biometric": 1478,
+          "demographic": 5274,
+          "month": "2025-07"
+        },
+        {
+          "enrolment": 22701,
+          "biometric": 2043,
+          "demographic": 20658,
+          "month": "2025-09"
+        },
+        {
+          "enrolment": 16207,
+          "biometric": 1088,
+          "demographic": 15119,
+          "month": "2025-10"
+        },
+        {
+          "enrolment": 23702,
+          "biometric": 1908,
+          "demographic": 21794,
+          "month": "2025-11"
+        },
+        {
+          "enrolment": 15025,
+          "biometric": 862,
+          "demographic": 14163,
+          "month": "2025-12"
+        }
+      ]
+    },
+    {
+      "state": "Himachal Pradesh",
+      "totals": {
+        "enrolment": 17486,
+        "biometric": 847,
+        "demographic": 16639
+      },
+      "trends": [
+        {
+          "enrolment": 114,
+          "biometric": 57,
+          "demographic": 57,
+          "month": "2025-07"
+        },
+        {
+          "enrolment": 4753,
+          "biometric": 277,
+          "demographic": 4476,
+          "month": "2025-09"
+        },
+        {
+          "enrolment": 3999,
+          "biometric": 175,
+          "demographic": 3824,
+          "month": "2025-10"
+        },
+        {
+          "enrolment": 5580,
+          "biometric": 228,
+          "demographic": 5352,
+          "month": "2025-11"
+        },
+        {
+          "enrolment": 3040,
+          "biometric": 110,
+          "demographic": 2930,
+          "month": "2025-12"
+        }
+      ]
+    },
+    {
+      "state": "Jammu and Kashmir",
+      "totals": {
+        "enrolment": 49096,
+        "biometric": 8557,
+        "demographic": 40539
+      },
+      "trends": [
+        {
+          "enrolment": 211,
+          "biometric": 69,
+          "demographic": 142,
+          "month": "2025-04"
+        },
+        {
+          "enrolment": 268,
+          "biometric": 77,
+          "demographic": 191,
+          "month": "2025-05"
+        },
+        {
+          "enrolment": 950,
+          "biometric": 381,
+          "demographic": 569,
+          "month": "2025-07"
+        },
+        {
+          "enrolment": 11868,
+          "biometric": 2205,
+          "demographic": 9663,
+          "month": "2025-09"
+        },
+        {
+          "enrolment": 10407,
+          "biometric": 1952,
+          "demographic": 8455,
+          "month": "2025-10"
+        },
+        {
+          "enrolment": 13788,
+          "biometric": 2735,
+          "demographic": 11053,
+          "month": "2025-11"
+        },
+        {
+          "enrolment": 11604,
+          "biometric": 1138,
+          "demographic": 10466,
+          "month": "2025-12"
+        }
+      ]
+    },
+    {
+      "state": "Jharkhand",
+      "totals": {
+        "enrolment": 157539,
+        "biometric": 58988,
+        "demographic": 98551
+      },
+      "trends": [
+        {
+          "enrolment": 55,
+          "biometric": 43,
+          "demographic": 12,
+          "month": "2025-03"
+        },
+        {
+          "enrolment": 3706,
+          "biometric": 1680,
+          "demographic": 2026,
+          "month": "2025-04"
+        },
+        {
+          "enrolment": 3324,
+          "biometric": 1760,
+          "demographic": 1564,
+          "month": "2025-06"
+        },
+        {
+          "enrolment": 11233,
+          "biometric": 5526,
+          "demographic": 5707,
+          "month": "2025-07"
+        },
+        {
+          "enrolment": 45365,
+          "biometric": 17795,
+          "demographic": 27570,
+          "month": "2025-09"
+        },
+        {
+          "enrolment": 25575,
+          "biometric": 9398,
+          "demographic": 16177,
+          "month": "2025-10"
+        },
+        {
+          "enrolment": 44432,
+          "biometric": 15598,
+          "demographic": 28834,
+          "month": "2025-11"
+        },
+        {
+          "enrolment": 23849,
+          "biometric": 7188,
+          "demographic": 16661,
+          "month": "2025-12"
+        }
+      ]
+    },
+    {
+      "state": "Karnataka",
+      "totals": {
+        "enrolment": 223235,
+        "biometric": 43973,
+        "demographic": 179262
+      },
+      "trends": [
+        {
+          "enrolment": 732,
+          "biometric": 423,
+          "demographic": 309,
+          "month": "2025-03"
+        },
+        {
+          "enrolment": 9586,
+          "biometric": 2260,
+          "demographic": 7326,
+          "month": "2025-04"
+        },
+        {
+          "enrolment": 5491,
+          "biometric": 2656,
+          "demographic": 2835,
+          "month": "2025-05"
+        },
+        {
+          "enrolment": 11685,
+          "biometric": 5822,
+          "demographic": 5863,
+          "month": "2025-06"
+        },
+        {
+          "enrolment": 15263,
+          "biometric": 6609,
+          "demographic": 8654,
+          "month": "2025-07"
+        },
+        {
+          "enrolment": 58373,
+          "biometric": 9091,
+          "demographic": 49282,
+          "month": "2025-09"
+        },
+        {
+          "enrolment": 36053,
+          "biometric": 5563,
+          "demographic": 30490,
+          "month": "2025-10"
+        },
+        {
+          "enrolment": 47260,
+          "biometric": 7338,
+          "demographic": 39922,
+          "month": "2025-11"
+        },
+        {
+          "enrolment": 38792,
+          "biometric": 4211,
+          "demographic": 34581,
+          "month": "2025-12"
+        }
+      ]
+    },
+    {
+      "state": "Kerala",
+      "totals": {
+        "enrolment": 75002,
+        "biometric": 21265,
+        "demographic": 53737
+      },
+      "trends": [
+        {
+          "enrolment": 380,
+          "biometric": 179,
+          "demographic": 201,
+          "month": "2025-05"
+        },
+        {
+          "enrolment": 186,
+          "biometric": 101,
+          "demographic": 85,
+          "month": "2025-06"
+        },
+        {
+          "enrolment": 474,
+          "biometric": 316,
+          "demographic": 158,
+          "month": "2025-07"
+        },
+        {
+          "enrolment": 19499,
+          "biometric": 5840,
+          "demographic": 13659,
+          "month": "2025-09"
+        },
+        {
+          "enrolment": 17126,
+          "biometric": 4942,
+          "demographic": 12184,
+          "month": "2025-10"
+        },
+        {
+          "enrolment": 23046,
+          "biometric": 6562,
+          "demographic": 16484,
+          "month": "2025-11"
+        },
+        {
+          "enrolment": 14291,
+          "biometric": 3325,
+          "demographic": 10966,
+          "month": "2025-12"
+        }
+      ]
+    },
+    {
+      "state": "Ladakh",
+      "totals": {
+        "enrolment": 617,
+        "biometric": 151,
+        "demographic": 466
+      },
+      "trends": [
+        {
+          "enrolment": 175,
+          "biometric": 51,
+          "demographic": 124,
+          "month": "2025-09"
+        },
+        {
+          "enrolment": 111,
+          "biometric": 45,
+          "demographic": 66,
+          "month": "2025-10"
+        },
+        {
+          "enrolment": 173,
+          "biometric": 38,
+          "demographic": 135,
+          "month": "2025-11"
+        },
+        {
+          "enrolment": 158,
+          "biometric": 17,
+          "demographic": 141,
+          "month": "2025-12"
+        }
+      ]
+    },
+    {
+      "state": "Lakshadweep",
+      "totals": {
+        "enrolment": 203,
+        "biometric": 11,
+        "demographic": 192
+      },
+      "trends": [
+        {
+          "enrolment": 64,
+          "biometric": 4,
+          "demographic": 60,
+          "month": "2025-09"
+        },
+        {
+          "enrolment": 44,
+          "biometric": 2,
+          "demographic": 42,
+          "month": "2025-10"
+        },
+        {
+          "enrolment": 64,
+          "biometric": 5,
+          "demographic": 59,
+          "month": "2025-11"
+        },
+        {
+          "enrolment": 31,
+          "biometric": 0,
+          "demographic": 31,
+          "month": "2025-12"
+        }
+      ]
+    },
+    {
+      "state": "Madhya Pradesh",
+      "totals": {
+        "enrolment": 493970,
+        "biometric": 125980,
+        "demographic": 367990
+      },
+      "trends": [
+        {
+          "enrolment": 542,
+          "biometric": 256,
+          "demographic": 286,
+          "month": "2025-03"
+        },
+        {
+          "enrolment": 17351,
+          "biometric": 5274,
+          "demographic": 12077,
+          "month": "2025-04"
+        },
+        {
+          "enrolment": 10603,
+          "biometric": 3382,
+          "demographic": 7221,
+          "month": "2025-05"
+        },
+        {
+          "enrolment": 18154,
+          "biometric": 8446,
+          "demographic": 9708,
+          "month": "2025-06"
+        },
+        {
+          "enrolment": 63188,
+          "biometric": 28209,
+          "demographic": 34979,
+          "month": "2025-07"
+        },
+        {
+          "enrolment": 132517,
+          "biometric": 34501,
+          "demographic": 98016,
+          "month": "2025-09"
+        },
+        {
+          "enrolment": 63625,
+          "biometric": 13254,
+          "demographic": 50371,
+          "month": "2025-10"
+        },
+        {
+          "enrolment": 103539,
+          "biometric": 18777,
+          "demographic": 84762,
+          "month": "2025-11"
+        },
+        {
+          "enrolment": 84451,
+          "biometric": 13881,
+          "demographic": 70570,
+          "month": "2025-12"
+        }
+      ]
+    },
+    {
+      "state": "Maharashtra",
+      "totals": {
+        "enrolment": 369139,
+        "biometric": 90325,
+        "demographic": 278814
+      },
+      "trends": [
+        {
+          "enrolment": 460,
+          "biometric": 228,
+          "demographic": 232,
+          "month": "2025-03"
+        },
+        {
+          "enrolment": 10591,
+          "biometric": 2605,
+          "demographic": 7986,
+          "month": "2025-04"
+        },
+        {
+          "enrolment": 9849,
+          "biometric": 3143,
+          "demographic": 6706,
+          "month": "2025-05"
+        },
+        {
+          "enrolment": 10649,
+          "biometric": 4128,
+          "demographic": 6521,
+          "month": "2025-06"
+        },
+        {
+          "enrolment": 54767,
+          "biometric": 20299,
+          "demographic": 34468,
+          "month": "2025-07"
+        },
+        {
+          "enrolment": 102341,
+          "biometric": 28504,
+          "demographic": 73837,
+          "month": "2025-09"
+        },
+        {
+          "enrolment": 51005,
+          "biometric": 9965,
+          "demographic": 41040,
+          "month": "2025-10"
+        },
+        {
+          "enrolment": 71886,
+          "biometric": 13822,
+          "demographic": 58064,
+          "month": "2025-11"
+        },
+        {
+          "enrolment": 57591,
+          "biometric": 7631,
+          "demographic": 49960,
+          "month": "2025-12"
+        }
+      ]
+    },
+    {
+      "state": "Manipur",
+      "totals": {
+        "enrolment": 13456,
+        "biometric": 8316,
+        "demographic": 5140
+      },
+      "trends": [
+        {
+          "enrolment": 632,
+          "biometric": 502,
+          "demographic": 130,
+          "month": "2025-04"
+        },
+        {
+          "enrolment": 291,
+          "biometric": 171,
+          "demographic": 120,
+          "month": "2025-05"
+        },
+        {
+          "enrolment": 603,
+          "biometric": 512,
+          "demographic": 91,
+          "month": "2025-06"
+        },
+        {
+          "enrolment": 1626,
+          "biometric": 1278,
+          "demographic": 348,
+          "month": "2025-07"
+        },
+        {
+          "enrolment": 3385,
+          "biometric": 2024,
+          "demographic": 1361,
+          "month": "2025-09"
+        },
+        {
+          "enrolment": 2505,
+          "biometric": 1476,
+          "demographic": 1029,
+          "month": "2025-10"
+        },
+        {
+          "enrolment": 2811,
+          "biometric": 1524,
+          "demographic": 1287,
+          "month": "2025-11"
+        },
+        {
+          "enrolment": 1603,
+          "biometric": 829,
+          "demographic": 774,
+          "month": "2025-12"
+        }
+      ]
+    },
+    {
+      "state": "Meghalaya",
+      "totals": {
+        "enrolment": 109771,
+        "biometric": 88592,
+        "demographic": 21179
+      },
+      "trends": [
+        {
+          "enrolment": 1550,
+          "biometric": 1043,
+          "demographic": 507,
+          "month": "2025-03"
+        },
+        {
+          "enrolment": 30512,
+          "biometric": 23340,
+          "demographic": 7172,
+          "month": "2025-04"
+        },
+        {
+          "enrolment": 17380,
+          "biometric": 13720,
+          "demographic": 3660,
+          "month": "2025-05"
+        },
+        {
+          "enrolment": 13561,
+          "biometric": 11837,
+          "demographic": 1724,
+          "month": "2025-06"
+        },
+        {
+          "enrolment": 23909,
+          "biometric": 20417,
+          "demographic": 3492,
+          "month": "2025-07"
+        },
+        {
+          "enrolment": 9539,
+          "biometric": 7453,
+          "demographic": 2086,
+          "month": "2025-09"
+        },
+        {
+          "enrolment": 5004,
+          "biometric": 3966,
+          "demographic": 1038,
+          "month": "2025-10"
+        },
+        {
+          "enrolment": 5973,
+          "biometric": 4794,
+          "demographic": 1179,
+          "month": "2025-11"
+        },
+        {
+          "enrolment": 2343,
+          "biometric": 2022,
+          "demographic": 321,
+          "month": "2025-12"
+        }
+      ]
+    },
+    {
+      "state": "Mizoram",
+      "totals": {
+        "enrolment": 5926,
+        "biometric": 1790,
+        "demographic": 4136
+      },
+      "trends": [
+        {
+          "enrolment": 368,
+          "biometric": 93,
+          "demographic": 275,
+          "month": "2025-04"
+        },
+        {
+          "enrolment": 737,
+          "biometric": 262,
+          "demographic": 475,
+          "month": "2025-05"
+        },
+        {
+          "enrolment": 311,
+          "biometric": 106,
+          "demographic": 205,
+          "month": "2025-06"
+        },
+        {
+          "enrolment": 875,
+          "biometric": 326,
+          "demographic": 549,
+          "month": "2025-07"
+        },
+        {
+          "enrolment": 1218,
+          "biometric": 348,
+          "demographic": 870,
+          "month": "2025-09"
+        },
+        {
+          "enrolment": 954,
+          "biometric": 299,
+          "demographic": 655,
+          "month": "2025-10"
+        },
+        {
+          "enrolment": 967,
+          "biometric": 253,
+          "demographic": 714,
+          "month": "2025-11"
+        },
+        {
+          "enrolment": 496,
+          "biometric": 103,
+          "demographic": 393,
+          "month": "2025-12"
+        }
+      ]
+    },
+    {
+      "state": "Nagaland",
+      "totals": {
+        "enrolment": 15587,
+        "biometric": 11075,
+        "demographic": 4512
+      },
+      "trends": [
+        {
+          "enrolment": 3506,
+          "biometric": 2320,
+          "demographic": 1186,
+          "month": "2025-04"
+        },
+        {
+          "enrolment": 666,
+          "biometric": 363,
+          "demographic": 303,
+          "month": "2025-05"
+        },
+        {
+          "enrolment": 739,
+          "biometric": 558,
+          "demographic": 181,
+          "month": "2025-06"
+        },
+        {
+          "enrolment": 4169,
+          "biometric": 3205,
+          "demographic": 964,
+          "month": "2025-07"
+        },
+        {
+          "enrolment": 2734,
+          "biometric": 1989,
+          "demographic": 745,
+          "month": "2025-09"
+        },
+        {
+          "enrolment": 1970,
+          "biometric": 1367,
+          "demographic": 603,
+          "month": "2025-10"
+        },
+        {
+          "enrolment": 1452,
+          "biometric": 1018,
+          "demographic": 434,
+          "month": "2025-11"
+        },
+        {
+          "enrolment": 351,
+          "biometric": 255,
+          "demographic": 96,
+          "month": "2025-12"
+        }
+      ]
+    },
+    {
+      "state": "ODISHA",
+      "totals": {
+        "enrolment": 1,
+        "biometric": 0,
+        "demographic": 1
+      },
+      "trends": [
+        {
+          "enrolment": 1,
+          "biometric": 0,
+          "demographic": 1,
+          "month": "2025-09"
+        }
+      ]
+    },
+    {
+      "state": "Odisha",
+      "totals": {
+        "enrolment": 122986,
+        "biometric": 23556,
+        "demographic": 99430
+      },
+      "trends": [
+        {
+          "enrolment": 276,
+          "biometric": 94,
+          "demographic": 182,
+          "month": "2025-04"
+        },
+        {
+          "enrolment": 529,
+          "biometric": 165,
+          "demographic": 364,
+          "month": "2025-07"
+        },
+        {
+          "enrolment": 53319,
+          "biometric": 10477,
+          "demographic": 42842,
+          "month": "2025-09"
+        },
+        {
+          "enrolment": 24543,
+          "biometric": 4837,
+          "demographic": 19706,
+          "month": "2025-10"
+        },
+        {
+          "enrolment": 23592,
+          "biometric": 4613,
+          "demographic": 18979,
+          "month": "2025-11"
+        },
+        {
+          "enrolment": 20727,
+          "biometric": 3370,
+          "demographic": 17357,
+          "month": "2025-12"
+        }
+      ]
+    },
+    {
+      "state": "Puducherry",
+      "totals": {
+        "enrolment": 3017,
+        "biometric": 239,
+        "demographic": 2778
+      },
+      "trends": [
+        {
+          "enrolment": 1120,
+          "biometric": 82,
+          "demographic": 1038,
+          "month": "2025-09"
+        },
+        {
+          "enrolment": 573,
+          "biometric": 53,
+          "demographic": 520,
+          "month": "2025-10"
+        },
+        {
+          "enrolment": 882,
+          "biometric": 66,
+          "demographic": 816,
+          "month": "2025-11"
+        },
+        {
+          "enrolment": 442,
+          "biometric": 38,
+          "demographic": 404,
+          "month": "2025-12"
+        }
+      ]
+    },
+    {
+      "state": "Punjab",
+      "totals": {
+        "enrolment": 76746,
+        "biometric": 15522,
+        "demographic": 61224
+      },
+      "trends": [
+        {
+          "enrolment": 180,
+          "biometric": 62,
+          "demographic": 118,
+          "month": "2025-03"
+        },
+        {
+          "enrolment": 5753,
+          "biometric": 1802,
+          "demographic": 3951,
+          "month": "2025-04"
+        },
+        {
+          "enrolment": 3767,
+          "biometric": 1227,
+          "demographic": 2540,
+          "month": "2025-05"
+        },
+        {
+          "enrolment": 2742,
+          "biometric": 1038,
+          "demographic": 1704,
+          "month": "2025-06"
+        },
+        {
+          "enrolment": 8511,
+          "biometric": 2649,
+          "demographic": 5862,
+          "month": "2025-07"
+        },
+        {
+          "enrolment": 21567,
+          "biometric": 2945,
+          "demographic": 18622,
+          "month": "2025-09"
+        },
+        {
+          "enrolment": 10599,
+          "biometric": 1722,
+          "demographic": 8877,
+          "month": "2025-10"
+        },
+        {
+          "enrolment": 15131,
+          "biometric": 2639,
+          "demographic": 12492,
+          "month": "2025-11"
+        },
+        {
+          "enrolment": 8496,
+          "biometric": 1438,
+          "demographic": 7058,
+          "month": "2025-12"
+        }
+      ]
+    },
+    {
+      "state": "Rajasthan",
+      "totals": {
+        "enrolment": 348458,
+        "biometric": 118678,
+        "demographic": 229780
+      },
+      "trends": [
+        {
+          "enrolment": 94,
+          "biometric": 53,
+          "demographic": 41,
+          "month": "2025-03"
+        },
+        {
+          "enrolment": 16842,
+          "biometric": 4935,
+          "demographic": 11907,
+          "month": "2025-04"
+        },
+        {
+          "enrolment": 2961,
+          "biometric": 969,
+          "demographic": 1992,
+          "month": "2025-05"
+        },
+        {
+          "enrolment": 6616,
+          "biometric": 2522,
+          "demographic": 4094,
+          "month": "2025-06"
+        },
+        {
+          "enrolment": 28786,
+          "biometric": 11414,
+          "demographic": 17372,
+          "month": "2025-07"
+        },
+        {
+          "enrolment": 123584,
+          "biometric": 39484,
+          "demographic": 84100,
+          "month": "2025-09"
+        },
+        {
+          "enrolment": 43918,
+          "biometric": 15374,
+          "demographic": 28544,
+          "month": "2025-10"
+        },
+        {
+          "enrolment": 74352,
+          "biometric": 25905,
+          "demographic": 48447,
+          "month": "2025-11"
+        },
+        {
+          "enrolment": 51305,
+          "biometric": 18022,
+          "demographic": 33283,
+          "month": "2025-12"
+        }
+      ]
+    },
+    {
+      "state": "Sikkim",
+      "totals": {
+        "enrolment": 2207,
+        "biometric": 1153,
+        "demographic": 1054
+      },
+      "trends": [
+        {
+          "enrolment": 176,
+          "biometric": 109,
+          "demographic": 67,
+          "month": "2025-04"
+        },
+        {
+          "enrolment": 431,
+          "biometric": 283,
+          "demographic": 148,
+          "month": "2025-07"
+        },
+        {
+          "enrolment": 737,
+          "biometric": 388,
+          "demographic": 349,
+          "month": "2025-09"
+        },
+        {
+          "enrolment": 326,
+          "biometric": 157,
+          "demographic": 169,
+          "month": "2025-10"
+        },
+        {
+          "enrolment": 423,
+          "biometric": 173,
+          "demographic": 250,
+          "month": "2025-11"
+        },
+        {
+          "enrolment": 114,
+          "biometric": 43,
+          "demographic": 71,
+          "month": "2025-12"
+        }
+      ]
+    },
+    {
+      "state": "Tamil Nadu",
+      "totals": {
+        "enrolment": 220789,
+        "biometric": 38476,
+        "demographic": 182313
+      },
+      "trends": [
+        {
+          "enrolment": 34,
+          "biometric": 22,
+          "demographic": 12,
+          "month": "2025-03"
+        },
+        {
+          "enrolment": 499,
+          "biometric": 141,
+          "demographic": 358,
+          "month": "2025-04"
+        },
+        {
+          "enrolment": 420,
+          "biometric": 98,
+          "demographic": 322,
+          "month": "2025-05"
+        },
+        {
+          "enrolment": 1931,
+          "biometric": 576,
+          "demographic": 1355,
+          "month": "2025-06"
+        },
+        {
+          "enrolment": 972,
+          "biometric": 342,
+          "demographic": 630,
+          "month": "2025-07"
+        },
+        {
+          "enrolment": 76208,
+          "biometric": 11776,
+          "demographic": 64432,
+          "month": "2025-09"
+        },
+        {
+          "enrolment": 41576,
+          "biometric": 7574,
+          "demographic": 34002,
+          "month": "2025-10"
+        },
+        {
+          "enrolment": 63172,
+          "biometric": 12935,
+          "demographic": 50237,
+          "month": "2025-11"
+        },
+        {
+          "enrolment": 35977,
+          "biometric": 5012,
+          "demographic": 30965,
+          "month": "2025-12"
+        }
+      ]
+    },
+    {
+      "state": "Telangana",
+      "totals": {
+        "enrolment": 131574,
+        "biometric": 25656,
+        "demographic": 105918
+      },
+      "trends": [
+        {
+          "enrolment": 634,
+          "biometric": 147,
+          "demographic": 487,
+          "month": "2025-04"
+        },
+        {
+          "enrolment": 911,
+          "biometric": 175,
+          "demographic": 736,
+          "month": "2025-05"
+        },
+        {
+          "enrolment": 1516,
+          "biometric": 667,
+          "demographic": 849,
+          "month": "2025-06"
+        },
+        {
+          "enrolment": 8581,
+          "biometric": 2444,
+          "demographic": 6137,
+          "month": "2025-07"
+        },
+        {
+          "enrolment": 43082,
+          "biometric": 8284,
+          "demographic": 34798,
+          "month": "2025-09"
+        },
+        {
+          "enrolment": 30738,
+          "biometric": 5782,
+          "demographic": 24956,
+          "month": "2025-10"
+        },
+        {
+          "enrolment": 30045,
+          "biometric": 5727,
+          "demographic": 24318,
+          "month": "2025-11"
+        },
+        {
+          "enrolment": 16067,
+          "biometric": 2430,
+          "demographic": 13637,
+          "month": "2025-12"
+        }
+      ]
+    },
+    {
+      "state": "Tripura",
+      "totals": {
+        "enrolment": 11285,
+        "biometric": 3909,
+        "demographic": 7376
+      },
+      "trends": [
+        {
+          "enrolment": 286,
+          "biometric": 121,
+          "demographic": 165,
+          "month": "2025-04"
+        },
+        {
+          "enrolment": 167,
+          "biometric": 107,
+          "demographic": 60,
+          "month": "2025-06"
+        },
+        {
+          "enrolment": 665,
+          "biometric": 306,
+          "demographic": 359,
+          "month": "2025-07"
+        },
+        {
+          "enrolment": 3121,
+          "biometric": 1094,
+          "demographic": 2027,
+          "month": "2025-09"
+        },
+        {
+          "enrolment": 1876,
+          "biometric": 636,
+          "demographic": 1240,
+          "month": "2025-10"
+        },
+        {
+          "enrolment": 2984,
+          "biometric": 1043,
+          "demographic": 1941,
+          "month": "2025-11"
+        },
+        {
+          "enrolment": 2186,
+          "biometric": 602,
+          "demographic": 1584,
+          "month": "2025-12"
+        }
+      ]
+    },
+    {
+      "state": "Uttar Pradesh",
+      "totals": {
+        "enrolment": 1018629,
+        "biometric": 497584,
+        "demographic": 521045
+      },
+      "trends": [
+        {
+          "enrolment": 5393,
+          "biometric": 4000,
+          "demographic": 1393,
+          "month": "2025-03"
+        },
+        {
+          "enrolment": 57903,
+          "biometric": 25390,
+          "demographic": 32513,
+          "month": "2025-04"
+        },
+        {
+          "enrolment": 49861,
+          "biometric": 22933,
+          "demographic": 26928,
+          "month": "2025-05"
+        },
+        {
+          "enrolment": 48753,
+          "biometric": 27644,
+          "demographic": 21109,
+          "month": "2025-06"
+        },
+        {
+          "enrolment": 157866,
+          "biometric": 84700,
+          "demographic": 73166,
+          "month": "2025-07"
+        },
+        {
+          "enrolment": 261079,
+          "biometric": 134929,
+          "demographic": 126150,
+          "month": "2025-09"
+        },
+        {
+          "enrolment": 138152,
+          "biometric": 67514,
+          "demographic": 70638,
+          "month": "2025-10"
+        },
+        {
+          "enrolment": 182695,
+          "biometric": 82111,
+          "demographic": 100584,
+          "month": "2025-11"
+        },
+        {
+          "enrolment": 116927,
+          "biometric": 48363,
+          "demographic": 68564,
+          "month": "2025-12"
+        }
+      ]
+    },
+    {
+      "state": "Uttarakhand",
+      "totals": {
+        "enrolment": 37698,
+        "biometric": 5818,
+        "demographic": 31880
+      },
+      "trends": [
+        {
+          "enrolment": 311,
+          "biometric": 125,
+          "demographic": 186,
+          "month": "2025-03"
+        },
+        {
+          "enrolment": 1276,
+          "biometric": 278,
+          "demographic": 998,
+          "month": "2025-04"
+        },
+        {
+          "enrolment": 624,
+          "biometric": 147,
+          "demographic": 477,
+          "month": "2025-05"
+        },
+        {
+          "enrolment": 294,
+          "biometric": 134,
+          "demographic": 160,
+          "month": "2025-06"
+        },
+        {
+          "enrolment": 2363,
+          "biometric": 500,
+          "demographic": 1863,
+          "month": "2025-07"
+        },
+        {
+          "enrolment": 10956,
+          "biometric": 1733,
+          "demographic": 9223,
+          "month": "2025-09"
+        },
+        {
+          "enrolment": 7138,
+          "biometric": 1051,
+          "demographic": 6087,
+          "month": "2025-10"
+        },
+        {
+          "enrolment": 8630,
+          "biometric": 1160,
+          "demographic": 7470,
+          "month": "2025-11"
+        },
+        {
+          "enrolment": 6106,
+          "biometric": 690,
+          "demographic": 5416,
+          "month": "2025-12"
+        }
+      ]
+    },
+    {
+      "state": "WESTBENGAL",
+      "totals": {
+        "enrolment": 1,
+        "biometric": 0,
+        "demographic": 1
+      },
+      "trends": [
+        {
+          "enrolment": 1,
+          "biometric": 0,
+          "demographic": 1,
+          "month": "2025-11"
+        }
+      ]
+    },
+    {
+      "state": "West Bengal",
+      "totals": {
+        "enrolment": 375339,
+        "biometric": 99920,
+        "demographic": 275419
+      },
+      "trends": [
+        {
+          "enrolment": 121,
+          "biometric": 76,
+          "demographic": 45,
+          "month": "2025-03"
+        },
+        {
+          "enrolment": 4268,
+          "biometric": 1395,
+          "demographic": 2873,
+          "month": "2025-04"
+        },
+        {
+          "enrolment": 9582,
+          "biometric": 4044,
+          "demographic": 5538,
+          "month": "2025-05"
+        },
+        {
+          "enrolment": 7271,
+          "biometric": 4077,
+          "demographic": 3194,
+          "month": "2025-06"
+        },
+        {
+          "enrolment": 28544,
+          "biometric": 13270,
+          "demographic": 15274,
+          "month": "2025-07"
+        },
+        {
+          "enrolment": 119657,
+          "biometric": 28462,
+          "demographic": 91195,
+          "month": "2025-09"
+        },
+        {
+          "enrolment": 77892,
+          "biometric": 17469,
+          "demographic": 60423,
+          "month": "2025-10"
+        },
+        {
+          "enrolment": 79235,
+          "biometric": 18216,
+          "demographic": 61019,
+          "month": "2025-11"
+        },
+        {
+          "enrolment": 48769,
+          "biometric": 12911,
+          "demographic": 35858,
+          "month": "2025-12"
+        }
+      ]
+    }
+  ]
+}
